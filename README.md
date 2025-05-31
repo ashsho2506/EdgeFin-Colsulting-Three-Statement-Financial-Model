@@ -125,6 +125,9 @@ Breaking projections into **Best**, **Base**, and **Worst Case** scenarios allow
 ## 📌 Tools Used
 
 <img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/microsoftCopilot-000000?style=for-the-badge&logoCopilot=logoColor=white"/>
+<img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white"/>
+
 
 ## 📎 License
 
